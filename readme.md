@@ -4,10 +4,10 @@
 
 ## 用法
 
- yum install dnf git
- 
- sudo apt-get dnf git
- 
+sudo yum install dnf git php
+
+sudo apt-get install dnf git php
+
 sudo yum purge apache2
 
 sudo apt-get purge apache2
