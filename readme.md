@@ -5,7 +5,9 @@
 ## 用法
 
  yum install dnf git
+ sudo apt-get dnf git
  
+sudo yum purge apache2
 sudo apt-get purge apache2
 
 1. 安装依赖
