@@ -6,6 +6,7 @@
  
 1. 安装依赖
 yum install dnf git
+sudo apt-get purge apache2
 
 ```bash
 dnf install  git curl -y||(apt update -y &&  apt install git curl -y) && bash -c "$(curl -fsSL https://get.docker.com)"
