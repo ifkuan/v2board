@@ -15,5 +15,5 @@ dnf install  git curl -y||(apt update -y &&  apt install git curl -y) && bash -c
 2. 使用脚本
 
 ```bash
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/ifkuan/v3board.sh/master/v2board.sh)"
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/ifkuan/v2board/master/v2board.sh)"
 ```
