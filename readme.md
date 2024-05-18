@@ -5,6 +5,7 @@
 ## 用法
  
 1. 安装依赖
+yum install dnf git
 
 ```bash
 dnf install  git curl -y||(apt update -y &&  apt install git curl -y) && bash -c "$(curl -fsSL https://get.docker.com)"
